@@ -1,1 +1,13 @@
-theme: jekyll-theme-hacker
+title: dimsky 的 9 维空间 //你博客的名字
+
+author: cheni2 //你的名字
+
+language: zh-Hans //语言 中文
+
+theme: next //刚刚安装的主题名称
+
+deploy:
+
+    type: git //使用Git 发布
+
+    repo: https://github.com/username/username.github.io.git // 刚创建的Github仓库
